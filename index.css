@@ -43,6 +43,11 @@ button {
     background: slategray;
 }
 
+#increment-btn:hover, #reset-btn:hover, #save-btn:hover{
+  background-image: linear-gradient(rgb(0 0 0/20%) 0 0);
+  cursor:pointer;
+}
+
 .container {
     display: flex;
     flex-direction:column;
