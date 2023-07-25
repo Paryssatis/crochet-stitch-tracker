@@ -1,5 +1,5 @@
 body {
-    background-image: url("Crochet.png");
+    background-image: url("/Images/Crochet.png");
     background-size: cover;
     font-family: 'Trebuchet MS', sans-serif;
     font-weight: bold;
@@ -41,6 +41,11 @@ button {
 
 #reset-btn {
     background: slategray;
+}
+
+#increment-btn:hover, #reset-btn:hover, #save-btn:hover{
+  background-image: linear-gradient(rgb(0 0 0/20%) 0 0);
+  cursor:pointer;
 }
 
 .container {
