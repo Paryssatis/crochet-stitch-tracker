@@ -1,7 +1,7 @@
 # Crochet Stitch Counter
 
 ### Description
-Crochet Stitch Counter is an application I built to help me keep track of the stitches and rows I completed while working on one of my countless crochet project. I wanted to bridge my passion for app development and my love for crochet by creating this app!
+Crochet Stitch Counter is an application I built to help me keep track of the stitches and rows I completed while working on one of my countless crochet projects. I wanted to bridge my passion for app development and my love for crochet by creating this app!
 
 This website is built with JavaScript, HTML, and CSS. I am also using ESLint to detect any issues in the code as well as Prettier and EditorConfig to ensure my code is properly formatted.
 
