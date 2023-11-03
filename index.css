@@ -1,12 +1,12 @@
 body {
   background-image: url("/images/crochet.webp");
   background-size: cover;
-  font-family: 'Trebuchet MS', sans-serif;
+  font-family: "Trebuchet MS", sans-serif;
   font-weight: bold;
   color: rgba(40, 40, 40, 1);
 }
 
-h1.title{
+h1.title {
   margin: 20px;
   font-size: 200%;
 }
@@ -29,7 +29,7 @@ button {
   padding-bottom: 10px;
   color: white;
   font-weight: bold;
-  font-family: 'Trebuchet MS', sans-serif;
+  font-family: "Trebuchet MS", sans-serif;
   width: 200px;
   margin-bottom: 5px;
   border-radius: 5px;
@@ -47,14 +47,16 @@ button {
   background: slategray;
 }
 
-#increment-btn:hover, #reset-btn:hover, #save-btn:hover{
+#increment-btn:hover,
+#reset-btn:hover,
+#save-btn:hover {
   background-image: linear-gradient(rgb(0 0 0/20%) 0 0);
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .container {
   display: flex;
-  flex-direction:column;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -67,8 +69,10 @@ button {
   height: 350px;
   padding: 15px;
   align-items: center;
-  background-color:rgba(250, 250, 250, 0.6);
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgba(250, 250, 250, 0.6);
+  box-shadow:
+    0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 5px;
   backdrop-filter: blur(7px);
 }
