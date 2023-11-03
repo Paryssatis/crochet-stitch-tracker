@@ -1,5 +1,5 @@
 name: Feature Suggestion
-description: Suggest a new feature for the Rhizone LMS.
+description: Suggest a new feature for the Crochet Stitch Tracker App.
 labels: ["enhancement"]
 body:
   - type: textarea
