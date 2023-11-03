@@ -1,5 +1,5 @@
 name: Bug Report
-description: File a bug report for the Rhizone LMS.
+description: File a bug report for the Crochet Stitch Tracker App.
 labels: ["bug"]
 body:
   - type: textarea
