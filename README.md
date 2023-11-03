@@ -1,4 +1,4 @@
-# Crochet Stitch Counter
+# Crochet Stitch Counter 🧶
 
 ### Description
 
