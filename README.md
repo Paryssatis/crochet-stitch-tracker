@@ -10,8 +10,7 @@ This website is built with TypeScript, React, JavaScript, HTML, and CSS. I am al
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
-- [JavaScript](https://www.javascript.com/)
-- [CSS](https://www.w3schools.com/css/default.asp)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [ESLint](https://eslint.org)
 - [Prettier](https://prettier.io)
 - [EditorConfig](https://editorconfig.org/)
