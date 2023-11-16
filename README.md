@@ -4,10 +4,12 @@
 
 Crochet Stitch Counter is an application I built to help me keep track of the stitches and rows I completed while working on one of my countless crochet projects. I wanted to bridge my passion for app development and my love for crochet by creating this app!
 
-This website is built with JavaScript, HTML, and CSS. I am also using ESLint to detect any issues in the code as well as Prettier and EditorConfig to ensure my code is properly formatted.
+This website is built with TypeScript, React, JavaScript, HTML, and CSS. I am also using ESLint to detect any issues in the code as well as Prettier and EditorConfig to ensure my code is properly formatted.
 
 ### Technology Stack
 
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
 - [JavaScript](https://www.javascript.com/)
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [ESLint](https://eslint.org)
@@ -29,7 +31,7 @@ gh repo clone Paryssatis/crochet-stitch-tracker
 Install package dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 Open the code in Visual Studio code:
@@ -41,7 +43,7 @@ code .
 Run the development server from the command line:
 
 ```bash
-npm start
+pnpm dev
 ```
 
 **Start Developing!**

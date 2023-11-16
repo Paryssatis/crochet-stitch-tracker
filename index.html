@@ -4,22 +4,12 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
     />
-    <link rel="stylesheet" href="index.css" />
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
     <meta name="viewport" content="width=device-width" />
   </head>
   <body>
-    <h1 class="title">Crochet Stitch Counter</h1>
-    <div class="container">
-      <div class="child">
-        <h1>Stitches entered:</h1>
-        <h2 id="count-el">0</h2>
-        <button id="increment-btn" onclick="increment()">STITCH</button>
-        <button id="save-btn" onclick="save()">NEXT ROW</button>
-        <button id="reset-btn" onclick="reset()">CLEAR ENTRIES</button>
-        <p id="save-el">Stitches Finished per Row:</p>
-        <script src="index.js"></script>
-      </div>
+    <div id="root">
     </div>
+    <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
